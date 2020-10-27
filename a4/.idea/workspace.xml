@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfe89372-6e74-4f6d-b0fc-e9c2e3934a4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YVsp8eAoeDpf5aoH8cS1qLRljj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../a6" />
+  </component>
+  <component name="RunManager" selected="Python.Question 3.5">
+    <configuration name="Question 2" type="PythonConfigurationType" factoryName="Python">
+      <module name="a4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-q 2" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Question 3" type="PythonConfigurationType" factoryName="Python">
+      <module name="a4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-q 3" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Question 3.2" type="PythonConfigurationType" factoryName="Python">
+      <module name="a4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-q 3.2" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Question 3.5" type="PythonConfigurationType" factoryName="Python">
+      <module name="a4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-q 3.5" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="a4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Question 2" />
+      <item itemvalue="Python.Question 3" />
+      <item itemvalue="Python.Question 3.2" />
+      <item itemvalue="Python.Question 3.5" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe89372-6e74-4f6d-b0fc-e9c2e3934a4d" name="Default Changelist" comment="" />
+      <created>1583039275585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583039275585</updated>
+      <workItem from="1583039278759" duration="3742000" />
+      <workItem from="1583697469212" duration="5288000" />
+      <workItem from="1583709786467" duration="1701000" />
+      <workItem from="1583711500613" duration="4930000" />
+      <workItem from="1585231179502" duration="6000" />
+      <workItem from="1586285513265" duration="3000" />
+      <workItem from="1586355881994" duration="666000" />
+      <workItem from="1586363848301" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="146" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583716422016">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state x="146" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1368.885@0.27.1368.885" timestamp="1583716422016" />
+    <state x="3616" y="314" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586355947049">
+      <screen x="2736" y="0" width="2560" height="1440" />
+    </state>
+    <state x="470" y="220" width="424" height="488" key="FileChooserDialogImpl/0.27.1368.885@0.27.1368.885" timestamp="1583039389109" />
+    <state x="3616" y="314" width="424" height="482" key="FileChooserDialogImpl/0.404.2736.1824/2736.0.2560.1440@2736.0.2560.1440" timestamp="1586355947049" />
+    <state width="1322" height="276" key="GridCell.Tab.0.bottom" timestamp="1583715616247">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.bottom/0.27.1368.885@0.27.1368.885" timestamp="1583715616247" />
+    <state width="1322" height="276" key="GridCell.Tab.0.center" timestamp="1583715616247">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.center/0.27.1368.885@0.27.1368.885" timestamp="1583715616247" />
+    <state width="1322" height="276" key="GridCell.Tab.0.left" timestamp="1583715616246">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.left/0.27.1368.885@0.27.1368.885" timestamp="1583715616246" />
+    <state width="1322" height="276" key="GridCell.Tab.0.right" timestamp="1583715616247">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.right/0.27.1368.885@0.27.1368.885" timestamp="1583715616247" />
+    <state width="1322" height="276" key="GridCell.Tab.1.bottom" timestamp="1583715616248">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.bottom/0.27.1368.885@0.27.1368.885" timestamp="1583715616248" />
+    <state width="1322" height="276" key="GridCell.Tab.1.center" timestamp="1583715616248">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.center/0.27.1368.885@0.27.1368.885" timestamp="1583715616248" />
+    <state width="1322" height="276" key="GridCell.Tab.1.left" timestamp="1583715616248">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.left/0.27.1368.885@0.27.1368.885" timestamp="1583715616248" />
+    <state width="1322" height="276" key="GridCell.Tab.1.right" timestamp="1583715616248">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.right/0.27.1368.885@0.27.1368.885" timestamp="1583715616248" />
+    <state x="3380" y="422" key="com.intellij.ide.util.TipDialog" timestamp="1586363849952">
+      <screen x="2736" y="0" width="2560" height="1440" />
+    </state>
+    <state x="344" y="286" key="com.intellij.ide.util.TipDialog/0.27.1368.885@0.27.1368.885" timestamp="1583711500276" />
+    <state x="688" y="553" key="com.intellij.ide.util.TipDialog/0.27.2736.1797/2736.0.2560.1440@0.27.2736.1797" timestamp="1585231181332" />
+    <state x="3380" y="422" key="com.intellij.ide.util.TipDialog/0.404.2736.1824/2736.0.2560.1440@2736.0.2560.1440" timestamp="1586355884661" />
+    <state x="688" y="938" key="com.intellij.ide.util.TipDialog/2736.0.2560.1440/0.404.2736.1824@0.404.2736.1824" timestamp="1586285513383" />
+    <state x="3380" y="422" key="com.intellij.ide.util.TipDialog/2736.0.2560.1440/0.404.2736.1824@2736.0.2560.1440" timestamp="1586363849952" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/linear_model.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/linear_model.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/linear_model.py</url>
+          <line>197</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a4$Question_3_4.coverage" NAME="Question 3.4 Coverage Results" MODIFIED="1583715517649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>

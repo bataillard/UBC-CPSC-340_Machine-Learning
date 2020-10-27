@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5d9e33b-f4c8-4169-8aae-fff6480486cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XOroKnvy53oqvaFo5DRF0voOO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/main.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Question 4.2" type="PythonConfigurationType" factoryName="Python">
+      <module name="a3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="-q 4.2" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="a3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d9e33b-f4c8-4169-8aae-fff6480486cc" name="Default Changelist" comment="" />
+      <created>1581297336289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581297336289</updated>
+      <workItem from="1581297340578" duration="2399000" />
+      <workItem from="1581300938854" duration="2200000" />
+      <workItem from="1583039255403" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="146" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581300954174">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state x="146" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1368.885@0.27.1368.885" timestamp="1581300954174" />
+    <state x="470" y="208" width="424" height="488" key="FileChooserDialogImpl" timestamp="1581297556348">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state x="470" y="208" width="424" height="488" key="FileChooserDialogImpl/0.27.1368.885@0.27.1368.885" timestamp="1581297556348" />
+    <state width="1322" height="276" key="GridCell.Tab.0.bottom" timestamp="1581304091074">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.bottom/0.27.1368.885@0.27.1368.885" timestamp="1581304091074" />
+    <state width="1322" height="276" key="GridCell.Tab.0.center" timestamp="1581304091072">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.center/0.27.1368.885@0.27.1368.885" timestamp="1581304091072" />
+    <state width="1322" height="276" key="GridCell.Tab.0.left" timestamp="1581304091071">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.left/0.27.1368.885@0.27.1368.885" timestamp="1581304091071" />
+    <state width="1322" height="276" key="GridCell.Tab.0.right" timestamp="1581304091073">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.0.right/0.27.1368.885@0.27.1368.885" timestamp="1581304091073" />
+    <state width="1322" height="276" key="GridCell.Tab.1.bottom" timestamp="1581304091078">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.bottom/0.27.1368.885@0.27.1368.885" timestamp="1581304091078" />
+    <state width="1322" height="276" key="GridCell.Tab.1.center" timestamp="1581304091076">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.center/0.27.1368.885@0.27.1368.885" timestamp="1581304091076" />
+    <state width="1322" height="276" key="GridCell.Tab.1.left" timestamp="1581304091075">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.left/0.27.1368.885@0.27.1368.885" timestamp="1581304091075" />
+    <state width="1322" height="276" key="GridCell.Tab.1.right" timestamp="1581304091077">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state width="1322" height="276" key="GridCell.Tab.1.right/0.27.1368.885@0.27.1368.885" timestamp="1581304091077" />
+    <state x="344" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1583039257678">
+      <screen x="0" y="27" width="1368" height="885" />
+    </state>
+    <state x="344" y="286" key="com.intellij.ide.util.TipDialog/0.27.1368.885@0.27.1368.885" timestamp="1583039257678" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/main.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/a3$Question_4_2.coverage" NAME="Question 4.2 Coverage Results" MODIFIED="1581301653426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
